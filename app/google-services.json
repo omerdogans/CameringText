@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12576511072",
+    "project_id": "readtextforcamera",
+    "storage_bucket": "readtextforcamera.appspot.com"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12576511072:android:d28b31f555f14b6160df05",
+        "android_client_info": {
+          "package_name": "com.appvdev.cameringtext"
+
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12576511072-irf16nlf6l9cmgfm06oksmn2auhfrkkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfUutIyvbF4iiu2Gd3e00-EVDvEUj00N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12576511072-irf16nlf6l9cmgfm06oksmn2auhfrkkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+
+  "configuration_version": "1"
+}
